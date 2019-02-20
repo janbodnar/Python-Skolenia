@@ -14,7 +14,7 @@ div.cols-2 {
     -webkit-column-gap: 50px;
     -moz-column-gap: 50px;
     font-size: 0.9em;
-    max-width: 550px;
+    max-width: 600px;
 }
 
 /* div.cols-2 li {

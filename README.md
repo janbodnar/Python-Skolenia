@@ -1,2 +1,4 @@
-# Python-Skolenia
-Python skolenia
+# Python-Skolenie
+Python skolenie
+
+http://pythonskolenie.top/

@@ -1,0 +1,2 @@
+# Python-Skolenia
+Python skolenia

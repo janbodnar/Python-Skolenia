@@ -10,9 +10,9 @@ div.cols-2 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     /* border: 1px solid steelblue; */
-    column-gap: 60px;
-    -webkit-column-gap: 60px;
-    -moz-column-gap: 60px;
+    column-gap: 50px;
+    -webkit-column-gap: 50px;
+    -moz-column-gap: 50px;
     font-size: 0.9em;
     max-width: 550px;
 }

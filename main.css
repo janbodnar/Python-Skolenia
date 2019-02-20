@@ -4,3 +4,11 @@ div.cols-3 {
     -moz-column-count: 3;
 }
 
+div.cols-3 li {
+    list-style-type: none;
+}
+
+.cols-3 h2:first-child {
+    margin: 0;
+    padding: 0;
+}

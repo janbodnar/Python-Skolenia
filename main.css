@@ -1,12 +1,25 @@
+body {
+    margin: 2em;
+    font-family: georgia;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
 div.cols-2 {
     column-count: 2;
     -webkit-column-count: 2;
     -moz-column-count: 2;
+    /* border: 1px solid steelblue; */
+    column-gap: 20px;
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    font-size: 0.9em;
+    max-width: 550px;
 }
 
-div.cols-2 li {
+/* div.cols-2 li {
     list-style-type: none;
-}
+} */
 
 .cols-2 h2:first-child {
     margin: 0;
